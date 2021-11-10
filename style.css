@@ -34,3 +34,11 @@
     opacity: 1;
     transition: 0s
   }
+
+  .dis{
+    color: red;
+  }
+
+  .note{
+    color: rgb(22, 201, 22);
+  }
