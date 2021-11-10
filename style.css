@@ -12,6 +12,7 @@
     text-decoration: none;
     overflow: hidden;
     cursor: pointer;
+    border-radius: 12px;
   }
   
   .ask:after {
